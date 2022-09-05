@@ -1,0 +1,9 @@
+.total{
+    height: 100%;
+}
+.margen:first-of-type{
+    padding-top: 1rem;
+}
+.margen:last-of-type{
+    padding-bottom: 1rem;
+}
